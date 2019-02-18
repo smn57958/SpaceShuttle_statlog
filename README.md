@@ -79,7 +79,7 @@ Thank you to all our backers!
 
 ### Sponsors
 
-[Sohan Milid Nipunage](https://github.com/smn57958/)<a href="https://avatars2.githubusercontent.com/u/29903664?s=400&u=21053fffb6c023726b0251c27aafa61f43ed9465&v=4/29903664.png"></a>
+[Sohan Milind Nipunage](https://github.com/smn57958/)<a href="https://avatars2.githubusercontent.com/u/29903664?s=400&u=21053fffb6c023726b0251c27aafa61f43ed9465&v=4/29903664.png"></a>
 
 ## License
 
